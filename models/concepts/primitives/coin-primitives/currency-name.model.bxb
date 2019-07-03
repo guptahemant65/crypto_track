@@ -1,0 +1,4 @@
+enum (currencyname) {
+  description (name of the currency)
+ role-of (currency_codes)
+}

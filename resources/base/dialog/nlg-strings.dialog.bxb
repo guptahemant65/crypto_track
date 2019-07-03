@@ -1,0 +1,8 @@
+template-macro-def (priceheader) {
+  content : template ("Here you go ")
+}
+template-macro-def (newsheader){
+  content : template ("Here are some market headlines")
+}
+
+

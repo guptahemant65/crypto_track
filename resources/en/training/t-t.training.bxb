@@ -1,0 +1,5 @@
+train (t-tgpl44gyxzu9mpuonzsplt073) {
+  utterance ("[g:find_price] Price of {[g:fromcurrency] (omg)[v:currency_codes:OMG]} in {[g:tocurrency] (hkd)[v:currency_codes:HKD]}")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1560681138320)
+}

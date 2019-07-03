@@ -1,0 +1,25 @@
+result-view {
+  match: crypto_price (Crypto_Price) 
+   message {
+    template-macro (priceheader)
+  }
+ 
+  render {
+     layout-macro (fiat_to_crypto) {
+      param (Crypto_Price){
+        expression (Crypto_Price)
+      } 
+      
+          }
+    
+  }
+
+  conversation-drivers {
+    conversation-driver {
+      template("more about [#{value(Crypto_Price.selected_crypto_sign)}]")
+      template ("Show the week highest")
+      
+    }
+    
+  }
+}

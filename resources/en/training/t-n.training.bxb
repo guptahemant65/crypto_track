@@ -1,0 +1,10 @@
+train (t-nc4ti40ymajbpo996zlt1t59x) {
+  utterance ("[g:find_price] price of {[g:fromcurrency] (walton)[v:currency_codes:WTC]} chain in {[g:tocurrency] (hongkong dollar)[v:currency_codes:HKD]}")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1560322241449)
+}
+train (t-nw22j3fwhiihj9amw5e1nci9m) {
+  utterance ("[g:find_price] show price of {[g:fromcurrency] (lisk)[v:currency_codes:LSK]} on (binance)[v:exchange_id:binance] exchange")
+  plan (ZY1bCoAwDAS3Pi6h4hG8UpE02iK2EhX09lapPxpYMmRggxKNnceO5Fy2sElPU2K9iCNG9bWD8ya5+uv4INv7kbUz/9pBwky7CHs60f6eJqMpGF5RQCFDHjciqUgK9xRPXhfvFw==)
+  last-modified (1562096171222)
+}

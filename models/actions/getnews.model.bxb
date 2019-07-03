@@ -1,0 +1,7 @@
+action (getnews) {
+  type(Search)
+  description (get the top/latest news)
+  
+  
+  output (news)
+}

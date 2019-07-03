@@ -1,0 +1,33 @@
+structure (crypto_price) {
+  description (Crypto Price)
+  
+  property (price) {
+    type (price)
+  }
+  property (selected_fiat_sign) {
+    type (selected_fiat_sign)
+  }
+  property (selected_crypto_sign) {
+    type (selected_crypto_sign)
+  }
+  property (amount){
+    type (amount)
+  }
+  
+  property (logo){
+    type (logo)
+  }
+  property (exchange_name){
+    type (exchange_name)
+  }
+  property (exchange_id){
+    type (exchange_id)
+  }
+   property (priceper){
+    type (priceper)
+  }
+ 
+  
+  
+   
+}

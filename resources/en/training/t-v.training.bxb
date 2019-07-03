@@ -1,0 +1,5 @@
+train (t-vok8jnat3imfsm629ynnrzdam) {
+  utterance ("[g:find_price] show (binance)[v:exchange_id:binance] price of (2.3)[v:amount] {[g:fromcurrency] (bitcoin)[v:currency_codes:BTC]} in {[g:tocurrency] (yen)[v:currency_codes:JPY]}")
+  plan (jU5BDgIhDBxXRF/gQY1P8EuEFHaXGOimson7ezFygottJpnptOnghNscpwfJtmTOYulZuVkkkMeldceQXPXOrWcjrynj2s79m2abJm+C69+NwpFWEZ9ow70LUx1D7Pyrj5P579sjdhiwh8IBuigU/W1VoAt+pSra7aEw/QE=)
+  last-modified (1562095654203)
+}

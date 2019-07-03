@@ -1,0 +1,10 @@
+train (t-59gswt511ytzea9o8ucf1d626) {
+  utterance ("[g:coininfo] what is the total supply of {[g:currencyname] (bitcoin)[v:currency_codes:BTC]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWIQnwkiBwA=)
+  last-modified (1562090512908)
+}
+train (t-5plwq1lmsivm3jswbmpn0z73j) {
+  utterance ("[g:getcoininfo] show me about {[g:currencyname] (bitcoin)[v:currency_codes:BTC]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWKYKJAEAA==)
+  last-modified (1562068592463)
+}

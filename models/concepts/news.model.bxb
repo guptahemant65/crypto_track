@@ -1,0 +1,24 @@
+structure (news) {
+  description (News in crypto market)
+  
+  property (description) {
+    type (description)
+    
+  }
+  property(originalImageUrl){
+    type(originalImageUrl)
+    //max (Many) min (Required)
+  }
+   property(title){
+    type(title)
+   
+  }
+  property (sourceDomain){
+    type (sourceDomain)
+  }
+   property (publishedAt){
+    type (publishedAt)
+  }
+  
+   
+}

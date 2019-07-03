@@ -1,0 +1,31 @@
+result-view {
+  match {
+      news  (News)
+  } 
+  message {
+    template-macro (newsheader)
+  }
+
+  render {if ("size(News) > 1") {
+       list-of (News) {
+        where-each (News) {
+          layout-macro (news-image-card) {
+            param (News) {
+              expression (News)
+            }
+          }
+        }
+      }
+    } else-if ("size(News) == 1") {
+      layout-match (News) {
+        mode (Details)
+      }  
+    } 
+        
+  }
+  
+   
+  
+  
+  
+}

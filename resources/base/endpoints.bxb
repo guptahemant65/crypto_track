@@ -1,0 +1,24 @@
+endpoints {
+  
+
+  action-endpoints {
+    action-endpoint (find_price) {
+      accepted-inputs (fromcurrency, tocurrency,amount,exchange_id)
+      local-endpoint (FindCryptoPrice.js)
+      
+    }
+
+    
+    action-endpoint (getnews) {
+      local-endpoint (newsapi.js)
+      
+    }
+    action-endpoint (getcoininfo) {
+      accepted-inputs (currencyname)
+      local-endpoint (getcoininfo.js)
+      
+    }
+
+    
+  }
+}

@@ -1,0 +1,20 @@
+train (t-o58j5ei7fbz4cnyt11sp2jfja) {
+  utterance ("[g:find_price] price of {[g:fromcurrency] (ripple)[v:currency_codes:XRP]} in {[g:tocurrency] (new zealand dollar)[v:currency_codes:NZD]}")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1560322385387)
+}
+train (t-o8r3faidv1oydwhz6wvry9zu1) {
+  utterance ([g:getnews] show me recent news)
+  plan (Y2BiEM/ITddLLqosKMmPLylKTM5OLdLLSy0vZpDCIpGeWgKWYwRCBigGkgA=)
+  last-modified (1559674908617)
+}
+train (t-oj6obwq4xh3tv0bp9r8inavpu) {
+  utterance ("[g:getnews] get me today's market headlines")
+  plan (Y2BiEMnITddLLqosKMkvKUpMztbLSy0vZhBHF01PLQFLMAIhAxQDSQA=)
+  last-modified (1562090696620)
+}
+train (t-olnnkoslpygqzlqwli3nytrsm) {
+  utterance ([g:hmg.cryptotrack.getnews] show news)
+  plan (Y2BiEMnITddLLqosKMkvKUpMztbLSy0vZhBHF01PLQFLMAIhAxQDSQA=)
+  last-modified (1562042972926)
+}

@@ -1,0 +1,5 @@
+train (t-2wfxsmimptx2uwey0vxeufukm) {
+  utterance ("[g:getcoininfo] get me statistics of {[g:currencyname] (bitcoin)[v:currency_codes:BTC]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWKYKJAEAA==)
+  last-modified (1562097075639)
+}

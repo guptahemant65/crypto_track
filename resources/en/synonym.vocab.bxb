@@ -1,0 +1,67 @@
+vocab (hmg.cryptotrack.currency_codes){
+  "BTC" {  "bitcoin" "BTC" "BITCOIN" "bitcoins" }
+  "XLM" { "XLM"  "stellar" "stellar coin" }
+  "ETH" { "ETH"  "ethereum" "etherum" "ETHEREUM" }
+  "LTC" {  "LTC" "litcoin" "litecoin" "litecoins"}
+  "CAS" {"CAS" "cashaa" "CASHAA"}
+  "MOD" {  "MOD" "MODUM"}
+  "TRX" { "TRX"  "TRON" }
+  "XRP" { "XRP"  "ripple" }
+  "BCH" { "BCH" "bch" "bitcoin cash" "bitcoincash" }
+  "ADA" { "cardano"  "ADA" }
+  "ETC" {"etherum classic" "ETC" }
+  "BNB" {"BNB" "binance coin" }
+  "OMG" {"omisego"  "OMG"}
+  "BTG" {"bitcoingold" "BTG"  "bitcoin gold"}
+  "XVG" {"XVG" "xvg" "verge"}
+  "WTC" {"walton" "waltonchain" "WTC" }
+  "RDD" {"redd" "RDD" }
+  "SC"  {"sia" "SC" }
+  "BSV" {"bitcoin sv" "BSV"}
+  "XMR" {"monero" "XMR"}                                   
+  "MIOTA" {"iota" "MIOTA" "IOTA"} 
+  "ATOM" {"cosmos" "ATOM"}  
+  "XTZ" {"tezos" "XTZ"}
+  "XEM" {"nem" "XEM"}                                              
+  "MKR" {"maker" "MKR"}
+  "ONT" {"ontology" "ONT"}                                                  
+  "ZEC" {"zcash" "z cash" "ZEC"}  
+  "CRO" {"crypto.com chain" "crypto chain" "CRO"} 
+  "VET" {"vechain" "wechain" "VET"}                                                         
+  "BTT" {"bit torrent" "BTT"}
+  "ICX" {"icon" "ICX"} 
+  "KMD" {"komodo" "KMD"} 
+  "ZRX" {"0x" "zerox" "zero x" "zero axe" "ZRX"}                                             
+  "LSK" {"lisk" "LSK"}                  
+                                                                  
+                                                                  
+                                      
+  "SGD" {  "SGD" "singapore dollar" "singapore dollars" "singaporean dollar" }
+  "EUR" { "EURO"  "EUR" "euro" "euros" }
+  "CNY" {  "CNY" "china yuan" "yuan" "chinese yuan" "yuans" }
+  "JPY" {  "JPY" "janpanese yen" "yen" "yens" }
+  "AED" {  "AED" "United Arab Emirates Dirham" "dirham" "dirhams" }
+  "CAD" {  "CAD"  "canadian dollar" "canadian dollars" "canada dollar" "canada dollars" }
+  "AUD" { "australian dollar" "australian dollars"  "AUD" "australia dollar" "australia dollars" }
+  "INR" {  "INR" "ruppee" "rupee" "indian currency" "indian ruppee" "rupees"}
+  "GBP" { "GBP" "pound" "pounds" "british pound" "british pounds"}
+  "CHF" { "CHF"  "switzerland currency" "switzerland franc" "franc" "francs"}
+  "NZD" { "NZD" "new zealand dollar" "new zealand dollars" }
+  "HKD" {"HKD"  "hongkong dollars" "hongkong dollar"}
+  "USD" { "USD" "dollar" "dollars"}
+  "KRW" {"KRW" "south korean won" "won"}                                    
+}
+                                                                                                  
+                                                                                                  vocab(hmg.cryptotrack.exchange_id) {
+
+  "binance" {"binance" "binance exchange"}
+  "huobi_us" {"huobi US" "huobi exchange" "huobi"}                                                                 "okex" {"okex" "okex exchange" "okay x" "okayx"}                          
+  "kraken" {"kraken" "krakan" "kraken exchange"}                                                                   "bittrex" {"bittrex" "bittrex exchange"}                         
+  "gdax" {"gdax" "coinbase" "coinbase pro" "gdax exchange" "g dax" "coinbase exchange"}                           "digifinex" {"digifinex" "digi finex" "digifinex exchange"}
+  "bitforex" {"bit forex" "bitforex" "bitforex exchange"}                                                         "coin_egg" {"coinegg" "coin egg" "coin_egg" "coinegg exchange"}
+  "idax" {"idax" "idax exchange"}                                                                              "hitbtc" {"hitbtc" "hit btc" "hitbtc exchange"}                                           
+  "bitfinex" {"bitfinex" "bit finex" "bitfinex exchange"}                                                         "bitmax" {"bitmax" "bit max" "bitmax exchange"}                                                                 "poloniex" {"poloniex" "polo nix" "polonix"  "poloniex exchange"}
+  "yobit" {"yobit" "yo bit" "yobit exchange"}                                                                                                                                
+    }                                                                                                
+
+

@@ -1,0 +1,5 @@
+train (t-k4b0qijifa1og2j1a3ci2914n) {
+  utterance ("[g:find_price] price of {[g:fromcurrency] (cashaa)[v:currency_codes:CAS]} in {[g:tocurrency] (dollar)[v:currency_codes:USD]}")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1560322193597)
+}

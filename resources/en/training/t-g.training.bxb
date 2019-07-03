@@ -1,0 +1,15 @@
+train (t-geohc5zmp7ad9zkztciszk0x4) {
+  utterance ("[g:hmg.cryptotrack.find_price] convert (5.6)[v:hmg.cryptotrack.amount] {[g:hmg.cryptotrack.fromcurrency] (lisk)[v:hmg.cryptotrack.currency_codes:LSK]} into {[g:hmg.cryptotrack.tocurrency] (dollars)[v:hmg.cryptotrack.currency_codes:USD]} from (binance)[v:hmg.cryptotrack.exchange_id:binance]")
+  plan (jU5BDgIhDBxXRF/gQY1P8EuEFHaXGOimson7ezFygottJpnptOnghNscpwfJtmTOYulZuVkkkMeldceQXPXOrWcjrynj2s79m2abJm+C69+NwpFWEZ9ow70LUx1D7Pyrj5P579sjdhiwh8IBuigU/W1VoAt+pSra7aEw/QE=)
+  last-modified (1562097010792)
+}
+train (t-giplzrtb9gt2wkxlcqs5hd595) {
+  utterance ("[g:getcoininfo] more on {[g:currencyname] (stellar)[v:currency_codes:XLM]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWKYKJAEAA==)
+  last-modified (1562068548964)
+}
+train (t-gykdrwqs36bum0vj3ou3tf4gd) {
+  utterance ([g:getnews] whats happening in crypto market)
+  plan (Y2BiEM/ITddLLqosKMmPLylKTM5OLdLLSy0vZpDCIpGeWgKWYwRCBigGkgA=)
+  last-modified (1559674942012)
+}

@@ -1,0 +1,180 @@
+layout{
+ match : coininfo(CoinInfo)
+  mode (Details)
+  
+  content {  section
+    { content
+      {image-card {
+      aspect-ratio (4:3)
+    image-url ("[#{value(CoinInfo.logo)}]")
+     title-area {
+        halign (Start)
+        slot1 {
+          text {
+           value ("[#{value(CoinInfo.name)}] ([#{value(CoinInfo.selected_crypto_sign)}])")
+            style (Title_L)
+        
+          }
+        }      
+            
+      
+          }  } 
+      }
+    } 
+    section{title("Stats")
+      content{
+        partitioned{
+          content{hbox{
+              content{
+                vbox{
+                  content{
+                    single-line{
+                      text{
+                        value("Price")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                } vbox{
+                  content{
+                    single-line{
+                      text{
+                        value ("[#{value(CoinInfo.price)}]")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            hbox{
+              content{
+                vbox{
+                  content{
+                    single-line{
+                      text{
+                        value("Day High")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                } vbox{
+                  content{
+                    single-line{
+                      text{
+                        value ("[#{value(CoinInfo.dayhigh)}]")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            hbox{
+              content{
+                vbox{
+                  content{
+                    single-line{
+                      text{
+                        value("Day Low")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                } vbox{
+                  content{
+                    single-line{
+                      text{
+                        value ("[#{value(CoinInfo.daylow)}]")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                }
+              }
+            }hbox{
+              content{
+                vbox{
+                  content{
+                    single-line{
+                      text{
+                        value("Supply")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                } vbox{
+                  content{
+                    single-line{
+                      text{
+                        value ("[#{value(CoinInfo.supply)}]")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                }
+              }
+            }hbox{
+              content{
+                vbox{
+                  content{
+                    single-line{
+                      text{
+                        value("Market Cap")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                } vbox{
+                  content{
+                    single-line{
+                      text{
+                        value ("[#{value(CoinInfo.mktcap)}]")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            hbox{
+              content{
+                vbox{
+                  content{
+                    single-line{
+                      text{
+                        value("Website")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                } vbox{
+                  content{
+                    single-line{
+                      text{
+                        value ("[#{value(CoinInfo.website)}]")
+                        style(Detail_M)
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            
+           
+          }
+        }}}
+        
+      
+        
+         
+  section {
+      title ("Description")
+      content {
+        paragraph {
+         value ("[#{value(CoinInfo.description)}]")
+          style (Detail_L)
+        }
+      }
+    }}}
+  

@@ -1,0 +1,57 @@
+enum (currency_codes) {
+  description (currency codes)
+  symbol (BTC) //bitcoin
+  symbol (LTC) //lite-coin
+  symbol (XRP) //ripple
+  symbol (TRX) //tron
+  symbol (ETH) //etherum
+  symbol (CAS) //cashaa
+  symbol (MOD) //modum
+  symbol (XLM) //stellar-coin
+  symbol (BCH) //bitcoin-cash
+  symbol (EOS) //EOS
+  symbol (USDT)
+  symbol (ADA)  
+  symbol (DASH) //DASH
+  symbol (NEO) //NEO
+  symbol (ETC) //Ethereum-classic
+  symbol (BNB) //Binance-coin
+  symbol (OMG) //omisego
+  symbol (BTG)
+  symbol (XVG) //verge
+  symbol (SC)  //sia-coin
+  symbol (WTC)
+  symbol (RDD) //Redd-coin
+  symbol (BSV)
+  symbol (XMR)
+  symbol (MIOTA)
+  symbol (ATOM)
+  symbol (XTZ)
+  symbol (XEM)
+  symbol (MKR)
+  symbol (ONT)
+  symbol (ZEC)
+  symbol (CRO)
+  symbol (VET)
+  symbol (KMD)
+  symbol (BTT)
+  symbol (ICX)
+  symbol (ZRX)
+  symbol (LSK)
+  
+  
+  symbol (USD)
+  symbol (KRW)
+  symbol (SGD)
+  symbol (EUR)
+  symbol (CNY)
+  symbol (JPY)
+  symbol (AED)
+  symbol (CAD)
+  symbol (AUD)
+  symbol (INR)
+  symbol (GBP)
+  symbol (CHF)
+  symbol (NZD)
+  symbol (HKD)
+}

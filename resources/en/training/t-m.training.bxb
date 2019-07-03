@@ -1,0 +1,5 @@
+train (t-mw5wc6hmkt6ug72ohrh3gmji5) {
+  utterance ("[g:find_price] price of {[g:fromcurrency] (tron)[v:currency_codes:TRX]} in {[g:tocurrency] (rupee)[v:currency_codes:INR]} on (binance)[v:exchange_id:binance]")
+  plan (jY1dCoMwEIQn/vUOtvQIvVKQzaqhmMgawdzeCHmpeenCwgzf7gweeM3L9CGJa/BBBvpmrVexxOjvdLTOZPa8Mz5oHtzE2poydhS/0C7CjiLeRWkmmrzhrawN/u/fDgoVajRok0ZyKjmVnMI1Td7fu0u1Jw==)
+  last-modified (1562095668353)
+}

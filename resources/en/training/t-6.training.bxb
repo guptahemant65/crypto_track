@@ -1,0 +1,15 @@
+train (t-63w6w1ebg2mn8gvywwlk560yh) {
+  utterance ("[g:getcoininfo] today low of {[g:currencyname] (stellar)[v:currency_codes:XLM]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWKYKJAEAA==)
+  last-modified (1562068490142)
+}
+train (t-6uby04hdyr4q8agvldase80ga) {
+  utterance ("[g:getcoininfo] today high of {[g:currencyname] (bitcoin)[v:currency_codes:BTC]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWKYKJAEAA==)
+  last-modified (1562068530251)
+}
+train (t-6xan94kpwjbqjmuj56psstrq8) {
+  utterance ("[g:hmg.cryptotrack.getcoininfo] show me stats about {[g:hmg.cryptotrack.currencyname] (bnb)[v:hmg.cryptotrack.currency_codes:BNB]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWKYKJAEAA==)
+  last-modified (1562097124908)
+}

@@ -1,0 +1,20 @@
+train (t-h5fvj7wdaeopxr0ycgbu5m8nw) {
+  utterance ("[g:find_price] (6)[v:amount] {[g:fromcurrency] (bitcoin)[v:currency_codes:BTC]} to {[g:tocurrency] (pounds)[v:currency_codes:GBP]} on (huobi)[v:exchange_id:huobi_us]")
+  plan (jU5BDgIhDBxXRF/gQY1P8EuEFHaXGOimson7ezFygottJpnptOnghNscpwfJtmTOYulZuVkkkMeldceQXPXOrWcjrynj2s79m2abJm+C69+NwpFWEZ9ow70LUx1D7Pyrj5P579sjdhiwh8IBuigU/W1VoAt+pSra7aEw/QE=)
+  last-modified (1562095123095)
+}
+train (t-hgeudarxu96bjvbf2rc21wz2t) {
+  utterance ("[g:getcoininfo] information about {[g:currencyname] (binance coin)[v:currency_codes:BNB]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWKYKJAEAA==)
+  last-modified (1562096159783)
+}
+train (t-hplvviwfjl5ak757boqai978u) {
+  utterance ("[g:find_price] get me price of {[g:fromcurrency] (binance coin)[v:currency_codes:BNB]} ")
+  plan (Y2BhkMnITddLLqosKMkvKUpMzoay4wuKMpNTGaTQZdMy81Kgchg604ryc5NLi4pS85IrGeQwzIXKxCfnp6QWMzAzMDIwAUkGMM0IpFmAGCYKJAE=)
+  last-modified (1562096073422)
+}
+train (t-hw3uz1kvfl88y8wposazbc7pe) {
+  utterance ("[g:find_price] price of {[g:fromcurrency] (stellar)[v:currency_codes:XLM]} coin in {[g:tocurrency] (australian dollar)[v:currency_codes:AUD]}")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1560322154260)
+}

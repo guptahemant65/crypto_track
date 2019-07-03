@@ -1,0 +1,5 @@
+train (t-4wibxd0timfwl348fon8bqwjo) {
+  utterance ("[g:getcoininfo] show some info about {[g:currencyname] (0x)[v:currency_codes:ZRX]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWKYKJAEAA==)
+  last-modified (1562095784615)
+}

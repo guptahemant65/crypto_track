@@ -1,0 +1,40 @@
+structure (coininfo) {
+  description (Coin information)
+  
+  property (description) {
+    type (description)
+    
+  }
+  property(logo){
+    type(logo)
+    //max (Many) min (Required)
+  }
+   property(website){
+    type(website)
+   
+  }
+  property (name){
+    type (name)
+  }
+  property (price){
+    type(price)
+  }
+   property (selected_crypto_sign) {
+    type (selected_crypto_sign)
+  }
+  property (dayhigh){
+    type(dayhigh)
+  }
+  property (daylow){
+    type(daylow)
+  }
+  property (supply){
+    type(supply)
+  }
+  property (mktcap){
+    type(mktcap)
+  }
+  
+  
+   
+}

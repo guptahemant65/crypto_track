@@ -1,0 +1,5 @@
+train (t-auhggzfk7mngia8d3o23hdqif) {
+  utterance ("[g:find_price] show me price of (5)[v:amount] {[g:fromcurrency] (bitcoin)[v:currency_codes:BTC]} in {[g:tocurrency] (singapore dollars)[v:currency_codes:SGD]} on (bittrex)[v:exchange_id:bittrex]")
+  plan (jU5BDgIhDBxXRF/gQY1P8EuEFHaXGOimson7ezFygottJpnptOnghNscpwfJtmTOYulZuVkkkMeldceQXPXOrWcjrynj2s79m2abJm+C69+NwpFWEZ9ow70LUx1D7Pyrj5P579sjdhiwh8IBuigU/W1VoAt+pSra7aEw/QE=)
+  last-modified (1562090428395)
+}

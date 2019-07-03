@@ -1,0 +1,5 @@
+train (t-p7m7my6rg89dzty4pdclgsx1d) {
+  utterance ("[g:find_price] price of {[g:fromcurrency] (BTC)[v:currency_codes:BTC]}")
+  plan (Y2BlkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8uEmsDAwMjAxMANpBjCLEQgZwDwGoChEDkgCAA==)
+  last-modified (1560322283551)
+}

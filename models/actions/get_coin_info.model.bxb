@@ -1,0 +1,13 @@
+action (getcoininfo) {
+  type(Search)
+  description (get information about coin)
+  
+  collect {
+    input (currencyname)
+    
+    {
+      type (currencyname)
+      min (Required) max (One)
+    }}
+  output (coininfo)
+}

@@ -1,0 +1,5 @@
+train (t-u92dkdxg9uxhfckobua4x6knf) {
+  utterance ("[g:find_price] value of (3)[v:amount] {[g:fromcurrency] (ripple)[v:currency_codes:XRP]} in {[g:tocurrency] (rupee)[v:currency_codes:INR]}")
+  plan (lY1LCoQwEEQr/uYMLmTwAl5JpI0fhqSljQtvb4TMQuiNDQ31qKIKH3wXN3ck5xa4DzLQz8ofN1nJolEC0+rHZNeKPTg+fFCrJ2FHh4j1dKLVtpPZE492V9cDv2moYJAhR4EyakQykUwkg/uK9M/crcoL)
+  last-modified (1560081001922)
+}

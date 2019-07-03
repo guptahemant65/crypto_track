@@ -1,0 +1,4 @@
+enum  (tocurrency)  {
+  description (toCurrency)
+  role-of (currency_codes)
+}

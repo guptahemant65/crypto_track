@@ -1,0 +1,24 @@
+capsule-info {
+  display-name (CryptoTrack)
+  description (Easily get up-to-date Cypto Currency prices for a multitude of currencies.)
+  //privacy-policy-url (http://my-capsule.com/en/privacy-policy)
+  search-keywords {
+    keyword (crypto)
+    keyword (converter)
+    keyword (cryptocurrency)
+    keyword (crypto news)
+    keyword (digital currency)
+  }
+  dispatch-name (CryptoTrack)
+  dispatch-aliases {
+    alias (currency converter)
+    alias (cryptocurrency news)
+  }
+  developer-name (Hemant Gupta)
+  icon-asset (/images/chat.png) //Icon made by Darius Dan from www.flaticon.com
+  screenshots { 
+    asset (/images/screenshots/s1.png)
+    asset (/images/screenshots/s2.png)
+    asset (/images/screenshots/s3.png)
+  }
+}

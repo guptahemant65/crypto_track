@@ -1,0 +1,8 @@
+hints {
+    uncategorized {
+        utterance (get me price of 3 bitcoins)
+        utterance (show me news about crypto market)
+        utterance (show me about ripple)
+        utterance (convert 5 dollars to rupee)
+    }
+}

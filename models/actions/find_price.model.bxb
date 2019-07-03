@@ -1,0 +1,31 @@
+action (find_price) {
+  type(Search)
+  description (Find price of cryptocurrency specificed by user)
+  collect {
+    input (fromcurrency)
+    
+    {
+      type (fromcurrency)
+      min (Required) max (One)
+    }
+    
+    input (tocurrency)
+    
+    {
+      type (tocurrency)
+      min (Optional) max (One)
+
+      }
+    
+    input(amount){
+      type (amount)
+      min (Optional)max (One)
+    }
+     input(exchange_id){
+      type (exchange_id)
+      min (Optional)max (One)
+    }
+  }
+ 
+  output (crypto_price)
+}

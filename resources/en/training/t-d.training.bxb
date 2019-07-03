@@ -1,0 +1,5 @@
+train (t-do3e39lk6zy8p9exy6lwz88md) {
+  utterance ("[g:find_price] price of (4)[v:amount] {[g:fromcurrency] (bitcoin)[v:currency_codes:BTC]} in {[g:tocurrency] (rupee)[v:currency_codes:INR]}")
+  plan (jY1LCoAwDESnfm/gQsQjeCWRWD9IG4l14e2t0I12YyAww0tmUKJZzNyRXLtjJwNtQfe7rKRRf+m02jGw6ssGw6d1ceIkbOgU0ZYutFFfID3xqI+40fHv3wIKCVJkyL2Gd8o75Z3CM1nY992j8hs=)
+  last-modified (1562067194676)
+}

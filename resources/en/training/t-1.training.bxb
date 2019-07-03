@@ -1,0 +1,5 @@
+train (t-1fgyrbbo3rgfsjdl6efzfkwda) {
+  utterance ("[g:find_price] find me the price of {[g:fromcurrency] (0x)[v:currency_codes:ZRX]} coin")
+  plan (Y2BhkMnITddLLqosKMkvKUpMzoay4wuKMpNTGaTQZdMy81Kgchg604ryc5NLi4pS85IrGeQwzIXKxCfnp6QWMzAzMDIwAUkGMM0IpFmAGCYKJAE=)
+  last-modified (1562095572578)
+}

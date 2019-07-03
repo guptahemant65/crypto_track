@@ -1,0 +1,15 @@
+train (t-rli6hv1w116jgwlk7yp2q898r) {
+  utterance ("[g:find_price] price of {[g:fromcurrency] (bitcoin)[v:currency_codes:BTC]} in {[g:tocurrency] (canadian dollar)[v:currency_codes:CAD]}")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1562005472847)
+}
+train (t-rokyprlm3dx336ha1c7c6m2yz) {
+  utterance ("[g:find_price] convert 2 {[g:fromcurrency] (dollar)[v:currency_codes:USD]} into {[g:tocurrency] (yen)[v:currency_codes:JPY]}")
+  plan (Y2BjkMnITddLLqosKMkvKUpMzoay4wuKMpNTGaTQZdMy81Kgchg604ryc5NLi4pS85IrGeQwzIXKxCfnp6QWY5pckk+0XlYGRgYmBmYGFiCLAcxmBLIZgWwWKEZWwQSELAA=)
+  last-modified (1562067448293)
+}
+train (t-rrvxso68ezfg5a5peax34lffh) {
+  utterance ("[g:find_price] whats the price of {[g:fromcurrency] (BTC)[v:currency_codes:BTC]} in {[g:tocurrency] (CNY)[v:currency_codes:CNY]} ?")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1560681126877)
+}

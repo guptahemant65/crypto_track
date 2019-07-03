@@ -1,0 +1,20 @@
+enum (exchange_id){
+  
+  symbol (binance)
+  symbol (okex)
+  symbol(kraken)
+  symbol (bittrex)
+  symbol (gdax)
+  symbol (digifinex)
+  symbol (huobi_us)
+  symbol (bitforex)
+  symbol (idax)
+  symbol (coin_egg)
+  symbol (hitbtc)
+  symbol (bitfinex)
+  symbol (bitmax)
+  symbol (poloniex)
+  symbol (yobit)
+  
+  
+}

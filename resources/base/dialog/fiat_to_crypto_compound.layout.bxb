@@ -1,0 +1,102 @@
+layout-macro-def (fiat_to_crypto) {
+  params {
+    param (Crypto_Price) {
+      type (crypto_price)
+      min (Required) max (One)
+    }
+    
+   
+  }
+  content {
+    section { content{
+         cell-card {
+                  slot1 {
+                    image {
+                      shape (Circle)
+                      url {
+                template ("[#{value(Crypto_Price.logo)}]")
+                      }
+                    }
+                  }
+          slot2 { content{order (SecondaryPrimary)
+                      primary {
+                     template ("[#{value(Crypto_Price.price)}] [#{value(Crypto_Price.selected_fiat_sign)}]")
+                      }
+                      secondary {
+                      template ("[#{value(Crypto_Price.amount)}] [#{value(Crypto_Price.selected_crypto_sign)}] equals ")
+                      }}
+                   
+                      
+                    }
+                  }
+                
+      split-input-cell {
+    left {
+        input-cell {
+            label {
+                template ("")
+            }
+            value {
+                template ("1") 
+            }
+           // on-click {
+           //     intent {
+           //     goal: ShowRideShareInputCells
+             //   }
+           // }
+        }
+    }
+    right {
+        input-cell {
+        label {
+            template ("")
+        }
+        value {
+            template ("[#{value(Crypto_Price.selected_crypto_sign)}]")
+        }
+       //on-click {
+         //   intent {
+           // goal: fromcurrency
+       //    }
+       //}
+        }
+    }
+      }
+        split-input-cell {
+    left {
+        input-cell {
+            label {
+                template ("")
+            }
+            value {
+                template ("[#{value(Crypto_Price.priceper)}]") 
+            }
+           // on-click {
+           //     intent {
+           //     goal: ShowRideShareInputCells
+             //   }
+           // }
+        }
+    }
+    right {
+        input-cell {
+        label {
+            template ("")
+        }
+        value {
+            template ("[#{value(Crypto_Price.selected_fiat_sign)}]")
+        }
+       // on-click {
+        //    intent {
+        //    goal: ShowRideShareInputCells
+        //    }
+       // }
+        }
+    }
+      } 
+        
+        paragraph{ style(Detail_L_Soft)
+          value("Fetched from [#{value(Crypto_Price.exchange_name)}]")} }
+     
+    } 
+  }}

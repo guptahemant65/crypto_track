@@ -1,0 +1,5 @@
+train (t-bwk89crg2t1ad7ufbl3xct492) {
+  utterance ("[g:find_price] get me price of {[g:fromcurrency] (ethereum classic)[v:currency_codes:ETC]} in {[g:tocurrency] (south korean won)[v:currency_codes:KRW]}")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1560322403749)
+}

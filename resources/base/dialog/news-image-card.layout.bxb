@@ -1,0 +1,31 @@
+layout-macro-def (news-image-card) {
+  params {
+    param (News) {
+      type (news)
+      min (Required) max (One)
+    }
+  }
+  content {
+    image-card {
+      aspect-ratio (4:3)
+    image-url ("[#{value(News.originalImageUrl)}]")
+      title-area {
+        halign (Start)
+        slot1 {
+          text {
+            value ("[#{value(News.title)}]")
+            style (Title_S)
+          }
+        }
+       slot2 {
+         single-line {
+          text {
+              value ("[#{value(News.sourceDomain)}]")
+           style (Detail_M)
+           }
+         }
+       }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+train (t-77mquuz5koqaaj913x6jlugsf) {
+  utterance ("[g:find_price] convert (5)[v:amount] {[g:fromcurrency] (bitcoins)[v:currency_codes:BTC]} into {[g:tocurrency] (dollars)[v:currency_codes:USD]}")
+  plan (jY1LCoAwDESnfm/gQsQjeCWRWD9IG4l14e2t0I12YyAww0tmUKJZzNyRXLtjJwNtQfe7rKRRf+m02jGw6ssGw6d1ceIkbOgU0ZYutFFfID3xqI+40fHv3wIKCVJkyL2Gd8o75Z3CM1nY992j8hs=)
+  last-modified (1562090849865)
+}

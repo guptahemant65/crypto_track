@@ -1,0 +1,16 @@
+result-view {
+  match {
+      coininfo  (CoinInfo)
+  }
+render {
+     layout-match (CoinInfo) {
+        mode (Details)
+      }
+    
+  }
+  message {
+    template("Here's some information about [#{value(CoinInfo.name)}]")
+    
+  }
+
+}

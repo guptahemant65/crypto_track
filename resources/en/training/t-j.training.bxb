@@ -1,0 +1,10 @@
+train (t-jb3ci34bmgiur6qmpid0rop46) {
+  utterance ("[g:hmg.cryptotrack.coininfo] what is the total marketcap of {[g:hmg.cryptotrack.currencyname] (stellar)[v:hmg.cryptotrack.currency_codes:XLM]}")
+  plan (Y2BhkMjITddLLqosKMkvKUpMztZLzs/My8xLy2eQRpdJTy2BS8pgaCstKkrNS67MS8xNZZDDJRufnJ+SWszAzMDIwAQkGcA0I5BmAWIQnwkiBwA=)
+  last-modified (1562090580555)
+}
+train (t-jhbn7bsf3ko2vzsx8m6ls09vv) {
+  utterance ("[g:find_price] price of {[g:fromcurrency] (sia)[v:currency_codes:SC]} in {[g:tocurrency] (singaporean dollar)[v:currency_codes:SGD]}")
+  plan (Y2BjkM/ITddLLqosKMmPLylKTM5OLYJxC4oyk1MZZLEoSMvMS4FKY9OfVpSfm1xaVJSal1zJoIjNAqhkfHJ+SmoxVitK8kkxgZWBkYGJgZmBBchiALMZgWxGIJsFipFVMAEhCwA=)
+  last-modified (1560322105210)
+}

@@ -1,0 +1,10 @@
+train (t-cdmbuezzrgg7bc7q1ep59nxtr) {
+  utterance ("[g:hmg.cryptotrack.getnews] show me recent news ")
+  plan (Y2BiEMnITddLLqosKMkvKUpMztbLSy0vZhBHF01PLQFLMAIhAxQDSQA=)
+  last-modified (1562090655428)
+}
+train (t-cnm3fntie4dwjiwqnra61xhzq) {
+  utterance ("[g:find_price] get me price of {[g:fromcurrency] (stellar)[v:currency_codes:XLM]} from (bittrex)[v:exchange_id:bittrex]")
+  plan (ZY1bCoAwDAS3Pi6h4hG8UpE02iK2EhX09lapPxpYMmRggxKNnceO5Fy2sElPU2K9iCNG9bWD8ya5+uv4INv7kbUz/9pBwky7CHs60f6eJqMpGF5RQCFDHjciqUgK9xRPXhfvFw==)
+  last-modified (1562090972942)
+}

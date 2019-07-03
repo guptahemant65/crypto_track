@@ -1,0 +1,4 @@
+structure (sign) {
+  description (sign of currency)
+  
+}
