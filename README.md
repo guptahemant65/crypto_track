@@ -1,6 +1,9 @@
-# crypto_track
+# Project Name
 
 CryptoTrack Bixby Capsule
+
+# Description
+ With CryptoTrack capsule, easily get up-to-date Cypto Currency prices for a multitude of currencies. You can also check latest happenings in the crypto world and know all you need to know about each crypto coin in one go. 
 
 # Screenshots
 
